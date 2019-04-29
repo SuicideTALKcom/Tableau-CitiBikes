@@ -1,6 +1,7 @@
-# Tableau Assignment - Citi Bike Analytics
+# Tableau CitiBike Analytics
 
-## Background
+#### Published:
+https://public.tableau.com/profile/doug.newsom#!/vizhome/2018-JC-CitiBike-TripData/Dashboard?publish=yes
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
